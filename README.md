@@ -52,3 +52,7 @@ Total items: 6, Items to replace: 1
 Customization
 Inventory Data: Modify the data dictionary in the script to add or remove electronic items.
 Collection Points: Update the collection_points dictionary with the e-waste collection points relevant to your location.
+
+
+![image](https://github.com/user-attachments/assets/47f513d1-9f55-4aa0-b0c1-084993e61bb1)
+
